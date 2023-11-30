@@ -1,0 +1,109 @@
+# Privacy
+DOMAIN-SUFFIX,adjust.com,reject
+DOMAIN-SUFFIX,airpr.com,reject
+DOMAIN-SUFFIX,cr-nielsen.com,reject
+DOMAIN-SUFFIX,hotjar.com,reject
+DOMAIN-SUFFIX,hotjar.io,reject
+DOMAIN-SUFFIX,hs-analytics.net,reject
+DOMAIN-SUFFIX,kissmetrics.com,reject
+DOMAIN-SUFFIX,kochava.com,reject
+DOMAIN-SUFFIX,liadm.com,reject
+DOMAIN-SUFFIX,marketo.com,reject
+DOMAIN-SUFFIX,mobileapptracking.com,reject
+DOMAIN-SUFFIX,mparticle.com,reject
+DOMAIN-SUFFIX,nexac.com,reject
+DOMAIN-SUFFIX,nr-data.net,reject
+DOMAIN-SUFFIX,pardot.com,reject
+DOMAIN-SUFFIX,parrable.com,reject
+DOMAIN-SUFFIX,petametrics.com,reject
+DOMAIN-SUFFIX,predic.io,reject
+DOMAIN-SUFFIX,quantcount.com,reject
+DOMAIN-SUFFIX,quantserve.com,reject
+DOMAIN-SUFFIX,rtbasia.com,reject
+DOMAIN-SUFFIX,scorecardresearch.com,reject
+DOMAIN-SUFFIX,seewhy.com,reject
+DOMAIN-SUFFIX,segment.com,reject
+DOMAIN-SUFFIX,segment.io,reject
+DOMAIN-SUFFIX,segmentify.com,reject
+DOMAIN-SUFFIX,sentiance.com,reject
+DOMAIN-SUFFIX,serverbid.com,reject
+DOMAIN-SUFFIX,sessionm.com,reject
+DOMAIN-SUFFIX,smartlook.com,reject
+DOMAIN-SUFFIX,socdm.com,reject
+DOMAIN-SUFFIX,socialannex.com,reject
+DOMAIN-SUFFIX,socialbakers.com,reject
+DOMAIN-SUFFIX,sociaplus.com,reject
+DOMAIN-SUFFIX,stathat.com,reject
+DOMAIN-SUFFIX,stats-locations.com,reject
+DOMAIN-SUFFIX,tagcommander.com,reject
+DOMAIN-SUFFIX,tailtarget.com,reject
+DOMAIN-SUFFIX,tapad.com,reject
+DOMAIN-SUFFIX,tapfiliate.com,reject
+DOMAIN-SUFFIX,tapinfluence.com,reject
+DOMAIN-SUFFIX,tapstream.com,reject
+DOMAIN-SUFFIX,tend.io,reject
+DOMAIN-SUFFIX,trackingio.com,reject
+DOMAIN-SUFFIX,woopra.com,reject
+DOMAIN-SUFFIX,wootric.com,reject
+DOMAIN-SUFFIX,wowanalytics.co.uk,reject
+DOMAIN-SUFFIX,zoomanalytics.co,reject
+
+DOMAIN-SUFFIX,ads.linkedin.com,reject
+DOMAIN,analytics.slashdotmedia.com,reject
+DOMAIN,zgsdk.zhugeio.com,reject
+
+# > 51.LA
+DOMAIN,js.users.51.la,reject
+DOMAIN,mc.51.la,reject
+DOMAIN,sdk.51.la,reject
+DOMAIN,wc.51.la,reject
+# > 58
+DOMAIN,track.58.com,reject
+DOMAIN,tracklog.58.com,reject
+# > Antiy
+DOMAIN,miav-cse.avlyun.com,reject
+DOMAIN,miui-fxcse.avlyun.com,reject
+# > Apple
+DOMAIN,token.safebrowsing.apple,reject
+# > Baidu
+DOMAIN,hm.baidu.com,reject
+DOMAIN,hmma.baidu.com,reject
+# > Daum
+DOMAIN,track.tiara.daum.net,reject
+DOMAIN,track.tiara.kakao.com,reject
+# > Google
+DOMAIN-SUFFIX,googletagmanager.com,reject
+DOMAIN-SUFFIX,google-analytics.com,reject
+DOMAIN,safebrowsing.googleapis.com,reject
+DOMAIN,safebrowsing.googleapis-cn.com,reject
+# > GozenData
+# https://www.v2ex.com/t/772523,reject
+DOMAIN-SUFFIX,gozendata.com,reject
+DOMAIN-SUFFIX,gzads.com,reject
+DOMAIN-SUFFIX,gz-data.com,reject
+# > GrowingIO
+DOMAIN-SUFFIX,giocdn.com,reject
+DOMAIN-SUFFIX,growingio.com,reject
+# > MI
+DOMAIN-SUFFIX,tracking.miui.com,reject
+# DOMAIN,api.miwifi.com // 影响 Mi Wi-Fi(id859962702)，但建议注意 https://www.v2ex.com/t/746094,reject
+DOMAIN,data.mistat.xiaomi.com,reject
+DOMAIN,flash.sec.miui.com,reject
+DOMAIN,tracking.intl.miui.com,reject
+DOMAIN,a0.app.xiaomi.com,reject
+DOMAIN,api.installer.xiaomi.com,reject
+# > Microsoft
+DOMAIN,c.bing.com,reject
+DOMAIN,c.clarity.ms,reject
+DOMAIN,o.clarity.ms,reject
+DOMAIN,www.clarity.ms,reject
+# > TalkingData
+DOMAIN-SUFFIX,cpatrk.net,reject
+DOMAIN-SUFFIX,talkingdata.com,reject
+DOMAIN-SUFFIX,talkingdata.net,reject
+DOMAIN-SUFFIX,udrig.com,reject
+# > Tencent
+DOMAIN,safebrowsing.urlsec.qq.com,reject
+# > Tenjin
+DOMAIN,track.tenjin.com,reject
+DOMAIN,track.tenjin.io,reject
