@@ -1,0 +1,19 @@
+# > bilibili
+DOMAIN,api.biliapi.com,StreamingCN
+DOMAIN,api.biliapi.net,StreamingCN
+DOMAIN,api.bilibili.com,StreamingCN
+DOMAIN,app.biliapi.com,StreamingCN
+DOMAIN,app.biliapi.net,StreamingCN
+DOMAIN,app.bilibili.com,StreamingCN
+DOMAIN,grpc.biliapi.net,StreamingCN
+DOMAIN,m.bilibili.com,StreamingCN
+DOMAIN,upos-hz-mirrorakam.akamaized.net,StreamingCN
+DOMAIN,www.bilibili.com,StreamingCN
+DOMAIN-KEYWORD,cn-hk-eq-bcache-,StreamingCN
+# > 愛奇藝台灣站
+DOMAIN,cache.video.iqiyi.com,StreamingCN
+IP-CIDR,116.211.202.206/32,StreamingCN
+IP-CIDR,116.211.202.216/32,StreamingCN
+# > MangoTV(芒果TV国际)
+DOMAIN-SUFFIX,api.mgtv.com,StreamingCN
+DOMAIN,mobileso.bz.mgtv.com,StreamingCN
