@@ -7,6 +7,7 @@ DOMAIN,log.mmstat.com,direct
 DOMAIN,sycm.mmstat.com,direct
 # ---(Alphabet)---
 DOMAIN-SUFFIX,blog.google,direct
+DOMAIN,ci.android.com,direct
 DOMAIN,clientservices.googleapis.com,direct
 DOMAIN,update.googleapis.com,direct
 DOMAIN,dl.google.com,direct
