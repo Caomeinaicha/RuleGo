@@ -1,0 +1,109 @@
+# Privacy
+host-suffix,adjust.com,Tracking
+host-suffix,airpr.com,Tracking
+host-suffix,cr-nielsen.com,Tracking
+host-suffix,hotjar.com,Tracking
+host-suffix,hotjar.io,Tracking
+host-suffix,hs-analytics.net,Tracking
+host-suffix,kissmetrics.com,Tracking
+host-suffix,kochava.com,Tracking
+host-suffix,liadm.com,Tracking
+host-suffix,marketo.com,Tracking
+host-suffix,mobileapptracking.com,Tracking
+host-suffix,mparticle.com,Tracking
+host-suffix,nexac.com,Tracking
+host-suffix,nr-data.net,Tracking
+host-suffix,pardot.com,Tracking
+host-suffix,parrable.com,Tracking
+host-suffix,petametrics.com,Tracking
+host-suffix,predic.io,Tracking
+host-suffix,quantcount.com,Tracking
+host-suffix,quantserve.com,Tracking
+host-suffix,rtbasia.com,Tracking
+host-suffix,scorecardresearch.com,Tracking
+host-suffix,seewhy.com,Tracking
+host-suffix,segment.com,Tracking
+host-suffix,segment.io,Tracking
+host-suffix,segmentify.com,Tracking
+host-suffix,sentiance.com,Tracking
+host-suffix,serverbid.com,Tracking
+host-suffix,sessionm.com,Tracking
+host-suffix,smartlook.com,Tracking
+host-suffix,socdm.com,Tracking
+host-suffix,socialannex.com,Tracking
+host-suffix,socialbakers.com,Tracking
+host-suffix,sociaplus.com,Tracking
+host-suffix,stathat.com,Tracking
+host-suffix,stats-locations.com,Tracking
+host-suffix,tagcommander.com,Tracking
+host-suffix,tailtarget.com,Tracking
+host-suffix,tapad.com,Tracking
+host-suffix,tapfiliate.com,Tracking
+host-suffix,tapinfluence.com,Tracking
+host-suffix,tapstream.com,Tracking
+host-suffix,tend.io,Tracking
+host-suffix,trackingio.com,Tracking
+host-suffix,woopra.com,Tracking
+host-suffix,wootric.com,Tracking
+host-suffix,wowanalytics.co.uk,Tracking
+host-suffix,zoomanalytics.co,Tracking
+
+host-suffix,ads.linkedin.com,Tracking
+host,analytics.slashdotmedia.com,Tracking
+host,zgsdk.zhugeio.com,Tracking
+
+# > 51.LA
+host,js.users.51.la,Tracking
+host,mc.51.la,Tracking
+host,sdk.51.la,Tracking
+host,wc.51.la,Tracking
+# > 58
+host,track.58.com,Tracking
+host,tracklog.58.com,Tracking
+# > Antiy
+host,miav-cse.avlyun.com,Tracking
+host,miui-fxcse.avlyun.com,Tracking
+# > Apple
+host,token.safebrowsing.apple,Tracking
+# > Baidu
+host,hm.baidu.com,Tracking
+host,hmma.baidu.com,Tracking
+# > Daum
+host,track.tiara.daum.net,Tracking
+host,track.tiara.kakao.com,Tracking
+# > Google
+host-suffix,googletagmanager.com,Tracking
+host-suffix,google-analytics.com,Tracking
+host,safebrowsing.googleapis.com,Tracking
+host,safebrowsing.googleapis-cn.com,Tracking
+# > GozenData
+# https://www.v2ex.com/t/772523
+host-suffix,gozendata.com,Tracking
+host-suffix,gzads.com,Tracking
+host-suffix,gz-data.com,Tracking
+# > GrowingIO
+host-suffix,giocdn.com,Tracking
+host-suffix,growingio.com,Tracking
+# > MI
+host-suffix,tracking.miui.com,Tracking
+# host,api.miwifi.com // 影响 Mi Wi-Fi(id859962702)，但建议注意 https://www.v2ex.com/t/746094,Tracking
+host,data.mistat.xiaomi.com,Tracking
+host,flash.sec.miui.com,Tracking
+host,tracking.intl.miui.com,Tracking
+host,a0.app.xiaomi.com,Tracking
+host,api.installer.xiaomi.com,Tracking
+# > Microsoft
+host,c.bing.com,Tracking
+host,c.clarity.ms,Tracking
+host,o.clarity.ms,Tracking
+host,www.clarity.ms,Tracking
+# > TalkingData
+host-suffix,cpatrk.net,Tracking
+host-suffix,talkingdata.com,Tracking
+host-suffix,talkingdata.net,Tracking
+host-suffix,udrig.com,Tracking
+# > Tencent
+host,safebrowsing.urlsec.qq.com,Tracking
+# > Tenjin
+host,track.tenjin.com,Tracking
+host,track.tenjin.io,Tracking
