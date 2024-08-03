@@ -1,0 +1,301 @@
+# Streaming Media
+
+# (Live)
+# > Twitch
+host-suffix,ext-twitch.tv,!CN
+host-suffix,jtvnw.net,!CN
+host-suffix,ttvnw.net,!CN
+host-suffix,twitch.tv,!CN
+host-suffix,twitchcdn.net,!CN
+host-suffix,twitch-ext.rootonline.de,!CN
+
+# (Music)
+# > Deezer
+host-suffix,deezer.com,!CN
+host-suffix,dzcdn.net,!CN
+# > JOOX
+host-suffix,joox.com,!CN
+host-keyword,jooxweb-api,!CN
+# > KKBOX
+host-suffix,kkbox.com,!CN
+host-suffix,kkbox.com.tw,!CN
+host-suffix,kfs.io,!CN
+# > Pandora
+host-suffix,pandora.com,!CN
+host-suffix,p-cdn.us,!CN
+# > SoundCloud
+host-suffix,p-cdn.us,!CN
+host-suffix,sndcdn.com,!CN
+host-suffix,soundcloud.com,!CN
+# > Spotify
+host-suffix,pscdn.co,!CN
+host-suffix,scdn.co,!CN
+host-suffix,spotify.com,!CN
+host-suffix,spoti.fi,!CN
+host-keyword,spotify.com,!CN
+host-keyword,-spotify-com,!CN
+# > TIDAL
+host-suffix,tidal.com,!CN
+# > YouTubeMusic
+
+# (Podcast)
+# > Himalaya
+host-suffix,himalaya.com,!CN
+# > Overcast
+host-suffix,overcast.fm,!CN
+
+# (Video)
+# > AbemaTV
+host-suffix,abema.io,!CN
+host-suffix,abema.tv,!CN
+host-suffix,abema-tv.com,!CN
+host-suffix,ameba.jp,!CN
+host-suffix,hayabusa.io,!CN
+host-suffix,hayabusa.media,!CN
+host,api-abematv.bucketeer.jp,!CN
+host-keyword,abematv.akamaized.net,!CN
+# > All 4
+host-suffix,c4assets.com,!CN
+host-suffix,channel4.com,!CN
+# > Amazon Prime Video
+host-suffix,aiv-cdn.net,!CN
+host-suffix,aiv-delivery.net,!CN
+host-suffix,amazonvideo.com,!CN
+host-suffix,media-amazon.com,!CN
+host-suffix,primevideo.com,!CN
+host-suffix,pv-cdn.net,!CN
+host,atv-ps.amazon.com,!CN
+host,fls-na.amazon.com,!CN
+host,avodmp4s3ww-a.akamaihd.net,!CN
+host,d25xi40x97liuc.cloudfront.net,!CN
+host,dmqdd6hw24ucf.cloudfront.net,!CN
+host,dmqdd6hw24ucf.cloudfront.net,!CN
+host,d22qjgkvxw22r6.cloudfront.net,!CN
+host,d1v5ir2lpwr8os.cloudfront.net,!CN
+host,d27xxe7juh1us6.cloudfront.net,!CN
+# host,www.amazon.com,!CN
+host-keyword,avoddashs,!CN
+# > Apple Music TV
+host,tv.applemusic.com,!CN
+# > Apple TV
+host,linear.tv.apple.com,!CN
+host,play-edge.itunes.apple.com,!CN
+host,uts-api.itunes.apple.com,!CN
+# > Bahamut
+host-suffix,bahamut.com.tw,!CN
+host-suffix,gamer.com.tw,!CN
+host,bahamut.akamaized.net,!CN
+host,gamer-cds.cdn.hinet.net,!CN
+host,gamer2-cds.cdn.hinet.net,!CN
+# > BBC iPlayer
+host-suffix,bbc.co.uk,!CN
+host-suffix,bbci.co.uk,!CN
+host-keyword,bbcfmt,!CN
+host-keyword,uk-live,!CN
+# > bilibili Intl
+host-suffix,biliintl.com,!CN
+host,apm-misaka.biliapi.net,!CN
+host,p.bstarstatic.com,!CN
+host,p-bstarstatic.akamaized.net,!CN
+host,upos-bstar-mirrorakam.akamaized.net,!CN
+host,upos-bstar1-mirrorakam.akamaized.net,!CN
+# > DAZN
+host-suffix,dazn.com,!CN
+host-suffix,dazn-api.com,!CN
+host-suffix,dazndn.com,!CN
+host-suffix,indazn.com,!CN
+host,d151l6v8er5bdm.cloudfront.net,!CN
+host-keyword,voddazn,!CN
+# > discovery+
+host-suffix,disco-api.com,!CN
+host-suffix,discoveryplus.co.uk,!CN
+host-suffix,discoveryplus.com,!CN
+host-suffix,discoveryplus.in,!CN
+host-suffix,dnitv.com,!CN
+# host,go-prod-vz.akamaized.net,!CN
+host,x-default-stgec.uplynk.com,!CN
+host-keyword,discovery.uplynk.com,!CN
+# > Disney+
+host-suffix,bamgrid.com,!CN
+host-suffix,disneyplus.com,!CN
+host-suffix,disney-plus.net,!CN
+host-suffix,disneystreaming.com,!CN
+host-suffix,dssott.com,!CN
+host,cdn.registerdisney.go.com,!CN
+# > DMM
+host-suffix,dmm.co.jp,!CN
+host-suffix,dmm.com,!CN
+host-suffix,dmm-extension.com,!CN
+# > encoreTVB
+host-suffix,encoretvb.com,!CN
+host,edge.api.brightcove.com,!CN
+host,bcbolt446c5271-a.akamaihd.net,!CN
+# > Hami Video
+host-suffix,ott.hinet.net,!CN
+host-suffix,hamivideo.hinet.net,!CN
+host,hls-hichannel.cdn.hinet.net,!CN
+host-keyword,hamivideo.cdn.hinet.net,!CN
+# > HBO Asia
+host-suffix,hbogoasia.com,!CN
+host-suffix,hbogoasia.hk,!CN
+host-keyword,.hbogoasia.,!CN
+host,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,!CN
+host,bcbolthboa-a.akamaihd.net,!CN
+host,cf-images.ap-southeast-1.prod.boltdns.net,!CN
+host,dai3fd1oh325y.cloudfront.net,!CN
+host,hboasia1-i.akamaihd.net,!CN
+host,hboasia2-i.akamaihd.net,!CN
+host,hboasia3-i.akamaihd.net,!CN
+host,hboasia4-i.akamaihd.net,!CN
+host,hboasia5-i.akamaihd.net,!CN
+host,hboasialive.akamaized.net,!CN
+host,hbogoprod-vod.akamaized.net,!CN
+host,hbolb.onwardsmg.com,!CN
+host,hbounify-prod.evergent.com,!CN
+host,players.brightcove.net,!CN
+host,s3-ap-southeast-1.amazonaws.com,!CN
+# > 华文电视
+host-suffix,5itv.tv,!CN
+host-suffix,ocnttv.com,!CN
+# > Hulu
+host-suffix,hulu.com,!CN
+host-suffix,huluim.com,!CN
+host-suffix,huluqa.com,!CN
+host-suffix,hulustream.com,!CN
+# > Hulu / フールー
+host-suffix,happyon.jp,!CN
+host-suffix,hjholdings.jp,!CN
+host-suffix,hulu.jp,!CN
+# > ITV
+host-suffix,itv.com,!CN
+host-suffix,itvstatic.com,!CN
+host,itvpnpmobile-a.akamaihd.net,!CN
+# > iQIYI
+host-suffix,iq.com,!CN
+host,intl.iqiyi.com,!CN
+host,intl-rcd.iqiyi.com,!CN
+host,intl-subscription.iqiyi.com,!CN
+ip-cidr,23.53.32.88/32,!CN
+ip-cidr,23.211.15.99/32,!CN
+ip-cidr,103.5.34.153/32,!CN
+ip-cidr,104.109.129.153/32,!CN
+ip-cidr,110.238.107.47/32,!CN
+ip-cidr,118.26.32.178/32,!CN
+ip-cidr,203.74.95.131/32,!CN
+ip-cidr,203.74.95.139/32,!CN
+ip-cidr,203.74.95.153/32,!CN
+ip-cidr,203.211.4.169/32,!CN
+ip-cidr,203.211.4.193/32,!CN
+ip-cidr,210.71.227.200/32,!CN
+ip-cidr,210.71.227.202/32,!CN
+ip-cidr,210.201.32.8/32,!CN
+ip-cidr,210.201.32.11/32,!CN
+# > KKTV
+host-suffix,kktv.com.tw,!CN
+host-suffix,kktv.me,!CN
+host,kktv-theater.kk.stream,!CN
+host,theater-kktv.cdn.hinet.net,!CN
+# > LINE TV
+host-suffix,linetv.tw,!CN
+host,d3c7rimkq79yfu.cloudfront.net,!CN
+# > LiTV
+host-suffix,litv.tv,!CN
+host,litvfreemobile-hichannel.cdn.hinet.net,!CN
+# > Max
+host-suffix,discomax.com,!CN
+host-suffix,hbo.com,!CN
+host-suffix,hbogo.com,!CN
+host-suffix,hbomax.com,!CN
+host-suffix,hbomaxcdn.com,!CN
+host-suffix,hbonow.com,!CN
+host-suffix,max.com,!CN
+# > My5
+host-suffix,channel5.com,!CN
+host-suffix,my5.tv,!CN
+host,d349g9zuie06uo.cloudfront.net,!CN
+# > myTV SUPER
+host-suffix,mytvsuper.com,!CN
+host-suffix,tvb.com,!CN
+# > Naver TV
+host-suffix,naver.com,!CN
+host-suffix,smartmediarep.com,!CN
+# > Netflix
+host-suffix,fast.com,!CN
+host-suffix,netflix.com,!CN
+host-suffix,netflix.net,!CN
+host-suffix,nflxext.com,!CN
+host-suffix,nflximg.com,!CN
+host-suffix,nflximg.net,!CN
+host-suffix,nflxso.net,!CN
+host-suffix,nflxvideo.net,!CN
+host-keyword,netflixdnstest,!CN
+host-keyword,apiproxy-device-prod-nlb-,!CN
+host-keyword,dualstack.apiproxy-,!CN
+geoip,NETFLIX,!CN
+# > niconico
+host-suffix,dmc.nico,!CN
+host-suffix,nicovideo.jp,!CN
+host-suffix,nimg.jp,!CN
+# > Now E
+host-suffix,nowe.com,!CN
+host-suffix,nowestatic.com,!CN
+# > Paramount+
+host-suffix,cbsi.com,!CN
+host-suffix,cbsaavideo.com,!CN
+host-suffix,cbsivideo.com,!CN
+host-suffix,paramountplus.com,!CN
+host-suffix,pplusstatic.com,!CN
+host,cbsi.live.ott.irdeto.com,!CN
+host,cbsplaylistserver.aws.syncbak.com,!CN
+host,cbsservice.aws.syncbak.com,!CN
+host,link.theplatform.com,!CN
+# > PBS
+host-suffix,pbs.org,!CN
+# > Peacock
+host-suffix,peacocktv.com,!CN
+# > Pornhub
+host-suffix,phncdn.com,!CN
+host-suffix,phprcdn.com,!CN
+host-suffix,pornhub.com,!CN
+host-suffix,pornhubpremium.com,!CN
+# > 台湾好
+host-suffix,skyking.com.tw,!CN
+host,hamifans.emome.net,!CN
+# > TikTok
+host-suffix,byteoversea.com,!CN
+host-suffix,ibytedtos.com,!CN
+host-suffix,muscdn.com,!CN
+host-suffix,musical.ly,!CN
+host-suffix,tiktok.com,!CN
+host-suffix,tik-tokapi.com,!CN
+host-suffix,tiktokcdn.com,!CN
+host-suffix,tiktokv.com,!CN
+host-suffix,ttwstatic.com,!CN
+host-keyword,tiktokcdn-,!CN
+# > TVer
+host-suffix,tver.jp,!CN
+host,edge.api.brightcove.com,!CN
+# > ViuTV
+host-suffix,viu.com,!CN
+host-suffix,viu.tv,!CN
+host,api.viu.now.com,!CN
+host,d1k2us671qcoau.cloudfront.net,!CN
+host,d2anahhhmp1ffz.cloudfront.net,!CN
+host,dfp6rglgjqszk.cloudfront.net,!CN
+# > WeTV
+host-suffix,wetv.vip,!CN
+host-suffix,wetvinfo.com,!CN
+ip-cidr,150.109.28.51/32,!CN
+# > YouTube
+host-suffix,googlevideo.com,!CN
+host-suffix,withyoutube.com,!CN
+host-suffix,youtu.be,!CN
+host-suffix,youtube.com,!CN
+host-suffix,youtubeeducation.com,!CN
+host-suffix,youtubegaming.com,!CN
+host-suffix,youtubekids.com,!CN
+host-suffix,youtube-nocookie.com,!CN
+host-suffix,yt.be,!CN
+host-suffix,ytimg.com,!CN
+host,youtubei.googleapis.com,!CN
+host,yt3.ggpht.com,!CN
