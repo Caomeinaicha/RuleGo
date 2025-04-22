@@ -1,0 +1,101 @@
+# > ZiTian
+host-suffix,51.la,Malicious
+host-suffix,bootcdn.net,Malicious
+host-suffix,bootcss.com,Malicious
+host-suffix,googie-anaiytics.com,Malicious
+host-suffix,kuurza.com,Malicious
+host-suffix,newcrbpc.com,Malicious
+host-suffix,polyfill.io,Malicious
+host-suffix,staticfile.net,Malicious
+host-suffix,staticfile.org,Malicious
+host-suffix,unionadjs.com,Malicious
+host-suffix,xhsbpza.com,Malicious
+host,union.macoms.la,Malicious
+# > funnull
+host-suffix,fn01.vip,Malicious
+host-suffix,fnvip001.com,Malicious
+host-suffix,funnull.com,Malicious
+host-suffix,funnull01.vip,Malicious
+host-suffix,goedge.cloud,Malicious
+host-suffix,goedge.cn,Malicious
+host-suffix,jsdelivr.vip,Malicious
+# > KuaiZip
+# https://zhuanlan.zhihu.com/p/39534279
+host-suffix,kuaizip.com,Malicious
+# > MacKeeper
+# https://www.lizhi.io/blog/40002904
+host-suffix,mackeeper.com,Malicious
+host-suffix,zryydi.com,Malicious
+# > Adobe Flash China Special Edition
+# https://www.zhihu.com/question/281163698/answer/441388130
+host-suffix,flash.cn,Malicious
+host,geo2.adobe.com,Malicious
+# > C&J Marketing
+# https://www.zhihu.com/question/46746200
+host-suffix,4009997658.com,Malicious
+host-suffix,abbyychina.com,Malicious
+host-suffix,affinitychina.cn,Malicious
+host-suffix,alienskins.cn,Malicious
+host-suffix,anydeskchina.cn,Malicious
+host-suffix,bartender.cc,Malicious
+host-suffix,betterzip.net,Malicious
+host-suffix,betterzipcn.com,Malicious
+host-suffix,beyondcompare.cc,Malicious
+host-suffix,bingdianhuanyuan.cn,Malicious
+host-suffix,chemdraw.com.cn,Malicious
+host-suffix,cjmakeding.com,Malicious
+host-suffix,cjmkt.com,Malicious
+host-suffix,codesoftchina.com,Malicious
+host-suffix,coreldrawchina.com,Malicious
+host-suffix,crossoverchina.com,Malicious
+host-suffix,dongmansoft.com,Malicious
+host-suffix,earmasterchina.cn,Malicious
+host-suffix,easyrecoverychina.com,Malicious
+host-suffix,ediuschina.com,Malicious
+host-suffix,flstudiochina.com,Malicious
+host-suffix,folxchina.cn,Malicious
+host-suffix,formysql.com,Malicious
+host-suffix,goldwavechina.cn,Malicious
+host-suffix,guitarpro.cc,Malicious
+host-suffix,huishenghuiying.com.cn,Malicious
+host-suffix,hypeapp.cn,Malicious
+host-suffix,hypersnap.net,Malicious
+host-suffix,iconworkshop.cn,Malicious
+host-suffix,idmchina.net,Malicious
+host-suffix,imazingchina.com,Malicious
+host-suffix,imindmap.cc,Malicious
+host-suffix,jihehuaban.com.cn,Malicious
+host-suffix,keyshot.cc,Malicious
+host-suffix,kingdeecn.cn,Malicious
+host-suffix,logoshejishi.com,Malicious
+host-suffix,luping.net.cn,Malicious
+host-suffix,mairuan.cn,Malicious
+host-suffix,mairuan.com,Malicious
+host-suffix,mairuan.com.cn,Malicious
+host-suffix,mairuan.net,Malicious
+host-suffix,mairuanwang.com,Malicious
+host-suffix,makeding.com,Malicious
+host-suffix,mathtype.cn,Malicious
+host-suffix,mindmanager.cc,Malicious
+host-suffix,mindmanager.cn,Malicious
+host-suffix,mindmapper.cc,Malicious
+host-suffix,mycleanmymac.com,Malicious
+host-suffix,nicelabel.cc,Malicious
+host-suffix,ntfsformac.cc,Malicious
+host-suffix,ntfsformac.cn,Malicious
+host-suffix,officesoftcn.com,Malicious
+host-suffix,overturechina.com,Malicious
+host-suffix,passwordrecovery.cn,Malicious
+host-suffix,pdfexpert.cc,Malicious
+host-suffix,photozoomchina.com,Malicious
+host-suffix,ps-chajian.com,Malicious
+host-suffix,shankejingling.com,Malicious
+host-suffix,ultraiso.net,Malicious
+host-suffix,vegaschina.cn,Malicious
+host-suffix,xitongqingli.com,Malicious
+host-suffix,xmindchina.net,Malicious
+host-suffix,xshellcn.com,Malicious
+host-suffix,yihuifu.cn,Malicious
+host-suffix,yuanchengxiezuo.com,Malicious
+host-suffix,zbrushcn.com,Malicious
+host-suffix,zhzzx.com,Malicious
