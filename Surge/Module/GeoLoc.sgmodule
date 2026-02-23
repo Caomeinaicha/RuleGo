@@ -1,23 +1,26 @@
 #!name=GeoLoc
 #!desc=仅用于改变归属地显示，模块添加后自行添加规则，如：RULE-SET,GeoLoc,PROXY
 
+[Rule]
+AND,((DOMAIN-KEYWORD,amemv.com,extended-matching), (PROTOCOL,UDP)),REJECT
+
 [Ruleset GeoLoc]
 
 # bilibili
 URL-REGEX,https:\/\/api\.bilibili\.com\/x\/v\d\/reply\/add
 
 # ByteDance
-DOMAIN-KEYWORD,-normal-lq.amemv.com
-DOMAIN-KEYWORD,-normal-c-lq.amemv.com
-URL-REGEX,https:\/\/ib\.snssdk\.com\/\d\/data\/v\d\/post_message\/
-# (Web)
-DOMAIN,www.douyin.com
+# (Amemv)
+DOMAIN-KEYWORD,-core-hl.amemv.com,extended-matching
+DOMAIN-KEYWORD,-core-lf.amemv.com,extended-matching
+# (TouTiao)
+DOMAIN,ib.snssdk.com
 
 # Kuwo
 DOMAIN,ip.i.kuwo.cn
 
 # Xiaohongshu
-DOMAIN,edith.xiaohongshu.com
+DOMAIN,edith.xiaohongshu.com,extended-matching
 
 # Weibo
 URL-REGEX,https:\/\/api\.weibo\.cn\/\d\/comments\/(create|reply)
@@ -32,4 +35,4 @@ URL-REGEX,https:\/\/api\.zhihu\.com\/answers
 URL-REGEX,https:\/\/api\.zhihu\.com\/comment_v\d\/answers\/\d+\/comment
 
 [MITM]
-hostname = %APPEND% tieba.baidu.com, tiebac.baidu.com, api.bilibili.com, ib.snssdk.com, api.weibo.cn, weibo.com
+hostname = %APPEND% api.bilibili.com, api.weibo.cn, weibo.com
