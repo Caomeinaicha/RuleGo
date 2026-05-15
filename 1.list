@@ -1,0 +1,2 @@
+shadowsocks=1.1.1.1:2323, method=2022-blake3-aes-128-gcm, password=3333333333333333333333==, fast-open=false, udp-relay=true, tag=   1    USA   1   
+shadowsocks=1.1.2.2:2323, method=2022-blake3-aes-128-gcm, password=3333333333333333333333==, fast-open=false, udp-relay=true, tag=TWN
