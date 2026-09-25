@@ -972,12 +972,5 @@ host,ads.auctions.yahoo.com,Advertising
 host,ads.finance.yahoo.com,Advertising
 host,ads.yahoo.com,Advertising
 host,ads.yahoo.de,Advertising
-user-agent,AVOS*,Advertising
-host,appcloud2.in.zhihu.com,Advertising
-host,mqtt.zhihu.com,Advertising
-host,sugar.zhihu.com,Advertising
-host,118.89.204.198,Advertising
-ip-cidr,118.89.204.198/32,Advertising
-ip6-cidr,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,Advertising
 host,apppv.zol.com.cn,Advertising
 host,pvnapp.zol.com.cn,Advertising
