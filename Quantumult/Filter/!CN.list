@@ -1,0 +1,304 @@
+# Streaming Media
+
+# (Live)
+# > Twitch
+DOMAIN-SUFFIX,ext-twitch.tv,!CN
+DOMAIN-SUFFIX,jtvnw.net,!CN
+DOMAIN-SUFFIX,ttvnw.net,!CN
+DOMAIN-SUFFIX,twitch.tv,!CN
+DOMAIN-SUFFIX,twitchcdn.net,!CN
+DOMAIN-SUFFIX,twitch-ext.rootonline.de,!CN
+
+# (Music)
+# > Deezer
+DOMAIN-SUFFIX,deezer.com,!CN
+DOMAIN-SUFFIX,dzcdn.net,!CN
+# > JOOX
+DOMAIN-SUFFIX,joox.com,!CN
+DOMAIN-KEYWORD,jooxweb-api,!CN
+# > KKBOX
+DOMAIN-SUFFIX,kkbox.com,!CN
+DOMAIN-SUFFIX,kkbox.com.tw,!CN
+DOMAIN-SUFFIX,kfs.io,!CN
+# > Pandora
+DOMAIN-SUFFIX,pandora.com,!CN
+DOMAIN-SUFFIX,p-cdn.us,!CN
+# > SoundCloud
+DOMAIN-SUFFIX,p-cdn.us,!CN
+DOMAIN-SUFFIX,sndcdn.com,!CN
+DOMAIN-SUFFIX,soundcloud.com,!CN
+# > Spotify
+DOMAIN-SUFFIX,pscdn.co,!CN
+DOMAIN-SUFFIX,scdn.co,!CN
+DOMAIN-SUFFIX,spotify.com,!CN
+DOMAIN-SUFFIX,spoti.fi,!CN
+DOMAIN-KEYWORD,spotify.com,!CN
+DOMAIN-KEYWORD,-spotify-com,!CN
+# > TIDAL
+DOMAIN-SUFFIX,tidal.com,!CN
+# > YouTubeMusic
+
+# (Podcast)
+# > Himalaya
+DOMAIN-SUFFIX,himalaya.com,!CN
+# > Overcast
+DOMAIN-SUFFIX,overcast.fm,!CN
+
+# (Video)
+# > AbemaTV
+DOMAIN-SUFFIX,abema.io,!CN
+DOMAIN-SUFFIX,abema.tv,!CN
+DOMAIN-SUFFIX,abema-tv.com,!CN
+DOMAIN-SUFFIX,ameba.jp,!CN
+DOMAIN-SUFFIX,hayabusa.io,!CN
+DOMAIN-SUFFIX,hayabusa.media,!CN
+DOMAIN,api-abematv.bucketeer.jp,!CN
+DOMAIN-KEYWORD,abematv.akamaized.net,!CN
+# > All 4
+DOMAIN-SUFFIX,c4assets.com,!CN
+DOMAIN-SUFFIX,channel4.com,!CN
+# > Amazon Prime Video
+DOMAIN-SUFFIX,aiv-cdn.net,!CN
+DOMAIN-SUFFIX,aiv-delivery.net,!CN
+DOMAIN-SUFFIX,amazonvideo.com,!CN
+DOMAIN-SUFFIX,media-amazon.com,!CN
+DOMAIN-SUFFIX,primevideo.com,!CN
+DOMAIN-SUFFIX,pv-cdn.net,!CN
+DOMAIN,atv-ps.amazon.com,!CN
+DOMAIN,fls-na.amazon.com,!CN
+DOMAIN,avodmp4s3ww-a.akamaihd.net,!CN
+DOMAIN,d25xi40x97liuc.cloudfront.net,!CN
+DOMAIN,dmqdd6hw24ucf.cloudfront.net,!CN
+DOMAIN,dmqdd6hw24ucf.cloudfront.net,!CN
+DOMAIN,d22qjgkvxw22r6.cloudfront.net,!CN
+DOMAIN,d1v5ir2lpwr8os.cloudfront.net,!CN
+DOMAIN,d27xxe7juh1us6.cloudfront.net,!CN
+# DOMAIN,www.amazon.com
+DOMAIN-KEYWORD,avoddashs,!CN
+# > Apple Music TV
+DOMAIN,tv.applemusic.com,!CN
+# > Apple TV
+DOMAIN,linear.tv.apple.com,!CN
+DOMAIN,play-edge.itunes.apple.com,!CN
+DOMAIN,uts-api.itunes.apple.com,!CN
+# > Bahamut
+DOMAIN-SUFFIX,bahamut.com.tw,!CN
+DOMAIN-SUFFIX,gamer.com.tw,!CN
+DOMAIN,bahamut.akamaized.net,!CN
+DOMAIN,gamer-cds.cdn.hinet.net,!CN
+DOMAIN,gamer2-cds.cdn.hinet.net,!CN
+# > BBC iPlayer
+DOMAIN-SUFFIX,bbc.co.uk,!CN
+DOMAIN-SUFFIX,bbci.co.uk,!CN
+DOMAIN-KEYWORD,bbcfmt,!CN
+DOMAIN-KEYWORD,uk-live,!CN
+# > bilibili Intl
+DOMAIN-SUFFIX,biliintl.com,!CN
+DOMAIN,apm-misaka.biliapi.net,!CN
+DOMAIN,p.bstarstatic.com,!CN
+DOMAIN,p-bstarstatic.akamaized.net,!CN
+DOMAIN,upos-bstar-mirrorakam.akamaized.net,!CN
+DOMAIN,upos-bstar1-mirrorakam.akamaized.net,!CN
+# > DAZN
+DOMAIN-SUFFIX,dazn.com,!CN
+DOMAIN-SUFFIX,dazn-api.com,!CN
+DOMAIN-SUFFIX,dazndn.com,!CN
+DOMAIN-SUFFIX,indazn.com,!CN
+DOMAIN,d151l6v8er5bdm.cloudfront.net,!CN
+DOMAIN-KEYWORD,voddazn,!CN
+# > discovery+
+DOMAIN-SUFFIX,disco-api.com,!CN
+DOMAIN-SUFFIX,discoveryplus.co.uk,!CN
+DOMAIN-SUFFIX,discoveryplus.com,!CN
+DOMAIN-SUFFIX,discoveryplus.in,!CN
+DOMAIN-SUFFIX,dnitv.com,!CN
+# DOMAIN,go-prod-vz.akamaized.net
+DOMAIN,x-default-stgec.uplynk.com,!CN
+DOMAIN-KEYWORD,discovery.uplynk.com,!CN
+# > Disney+
+DOMAIN-SUFFIX,bamgrid.com,!CN
+DOMAIN-SUFFIX,disneyplus.com,!CN
+DOMAIN-SUFFIX,disney-plus.net,!CN
+DOMAIN-SUFFIX,disneystreaming.com,!CN
+DOMAIN-SUFFIX,dssott.com,!CN
+DOMAIN,cdn.registerdisney.go.com,!CN
+# > DMM
+DOMAIN-SUFFIX,dmm.co.jp,!CN
+DOMAIN-SUFFIX,dmm.com,!CN
+DOMAIN-SUFFIX,dmm-extension.com,!CN
+# > encoreTVB
+DOMAIN-SUFFIX,encoretvb.com,!CN
+DOMAIN,edge.api.brightcove.com,!CN
+DOMAIN,bcbolt446c5271-a.akamaihd.net,!CN
+# > Hami Video
+DOMAIN-SUFFIX,ott.hinet.net,!CN
+DOMAIN-SUFFIX,hamivideo.hinet.net,!CN
+DOMAIN,hls-hichannel.cdn.hinet.net,!CN
+DOMAIN-KEYWORD,hamivideo.cdn.hinet.net,!CN
+# > HBO Asia
+DOMAIN-SUFFIX,hbogoasia.com,!CN
+DOMAIN-SUFFIX,hbogoasia.hk,!CN
+DOMAIN-KEYWORD,.hbogoasia.,!CN
+DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,!CN
+DOMAIN,bcbolthboa-a.akamaihd.net,!CN
+DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net,!CN
+DOMAIN,dai3fd1oh325y.cloudfront.net,!CN
+DOMAIN,hboasia1-i.akamaihd.net,!CN
+DOMAIN,hboasia2-i.akamaihd.net,!CN
+DOMAIN,hboasia3-i.akamaihd.net,!CN
+DOMAIN,hboasia4-i.akamaihd.net,!CN
+DOMAIN,hboasia5-i.akamaihd.net,!CN
+DOMAIN,hboasialive.akamaized.net,!CN
+DOMAIN,hbogoprod-vod.akamaized.net,!CN
+DOMAIN,hbolb.onwardsmg.com,!CN
+DOMAIN,hbounify-prod.evergent.com,!CN
+DOMAIN,players.brightcove.net,!CN
+DOMAIN,s3-ap-southeast-1.amazonaws.com,!CN
+# > 华文电视
+DOMAIN-SUFFIX,5itv.tv,!CN
+DOMAIN-SUFFIX,ocnttv.com,!CN
+# > Hulu
+DOMAIN-SUFFIX,hulu.com,!CN
+DOMAIN-SUFFIX,huluim.com,!CN
+DOMAIN-SUFFIX,huluqa.com,!CN
+DOMAIN-SUFFIX,hulustream.com,!CN
+# > Hulu / フールー
+DOMAIN-SUFFIX,happyon.jp,!CN
+DOMAIN-SUFFIX,hjholdings.jp,!CN
+DOMAIN-SUFFIX,hulu.jp,!CN
+# > ITV
+DOMAIN-SUFFIX,itv.com,!CN
+DOMAIN-SUFFIX,itvstatic.com,!CN
+DOMAIN,itvpnpmobile-a.akamaihd.net,!CN
+# > iQIYI
+DOMAIN-SUFFIX,iq.com,!CN
+DOMAIN,intl.iqiyi.com,!CN
+DOMAIN,intl-rcd.iqiyi.com,!CN
+DOMAIN,intl-subscription.iqiyi.com,!CN
+IP-CIDR,23.53.32.88/32,!CN
+IP-CIDR,23.211.15.99/32,!CN
+IP-CIDR,103.5.34.153/32,!CN
+IP-CIDR,104.109.129.153/32,!CN
+IP-CIDR,110.238.107.47/32,!CN
+IP-CIDR,118.26.32.178/32,!CN
+IP-CIDR,203.74.95.131/32,!CN
+IP-CIDR,203.74.95.139/32,!CN
+IP-CIDR,203.74.95.153/32,!CN
+IP-CIDR,203.211.4.169/32,!CN
+IP-CIDR,203.211.4.193/32,!CN
+IP-CIDR,210.71.227.200/32,!CN
+IP-CIDR,210.71.227.202/32,!CN
+IP-CIDR,210.201.32.8/32,!CN
+IP-CIDR,210.201.32.11/32,!CN
+# > KKTV
+DOMAIN-SUFFIX,kktv.com.tw,!CN
+DOMAIN-SUFFIX,kktv.me,!CN
+DOMAIN,kktv-theater.kk.stream,!CN
+DOMAIN,theater-kktv.cdn.hinet.net,!CN
+# > LINE TV
+DOMAIN-SUFFIX,linetv.tw,!CN
+DOMAIN,d3c7rimkq79yfu.cloudfront.net,!CN
+# > LiTV
+DOMAIN-SUFFIX,litv.tv,!CN
+DOMAIN,litvfreemobile-hichannel.cdn.hinet.net,!CN
+# > Max
+DOMAIN-SUFFIX,discomax.com,!CN
+DOMAIN-SUFFIX,hbo.com,!CN
+DOMAIN-SUFFIX,hbogo.com,!CN
+DOMAIN-SUFFIX,hbomax.com,!CN
+DOMAIN-SUFFIX,hbomaxcdn.com,!CN
+DOMAIN-SUFFIX,hbonow.com,!CN
+DOMAIN-SUFFIX,max.com,!CN
+# > My5
+DOMAIN-SUFFIX,channel5.com,!CN
+DOMAIN-SUFFIX,my5.tv,!CN
+DOMAIN,d349g9zuie06uo.cloudfront.net,!CN
+# > myTV SUPER
+DOMAIN-SUFFIX,mytvsuper.com,!CN
+DOMAIN-SUFFIX,tvb.com,!CN
+# > Naver TV
+DOMAIN-SUFFIX,naver.com,!CN
+DOMAIN-SUFFIX,smartmediarep.com,!CN
+# > Netflix
+DOMAIN-SUFFIX,fast.com,!CN
+DOMAIN-SUFFIX,netflix.com,!CN
+DOMAIN-SUFFIX,netflix.net,!CN
+DOMAIN-SUFFIX,nflxext.com,!CN
+DOMAIN-SUFFIX,nflximg.com,!CN
+DOMAIN-SUFFIX,nflximg.net,!CN
+DOMAIN-SUFFIX,nflxso.net,!CN
+DOMAIN-SUFFIX,nflxvideo.net,!CN
+DOMAIN-KEYWORD,netflixdnstest,!CN
+DOMAIN-KEYWORD,apiproxy-device-prod-nlb-,!CN
+DOMAIN-KEYWORD,dualstack.apiproxy-,!CN
+GEOIP,NETFLIX,!CN
+# > niconico
+DOMAIN-SUFFIX,dmc.nico,!CN
+DOMAIN-SUFFIX,nicovideo.jp,!CN
+DOMAIN-SUFFIX,nimg.jp,!CN
+# > Now E
+DOMAIN-SUFFIX,nowe.com,!CN
+DOMAIN-SUFFIX,nowestatic.com,!CN
+# > Paramount+
+DOMAIN-SUFFIX,cbsi.com,!CN
+DOMAIN-SUFFIX,cbsaavideo.com,!CN
+DOMAIN-SUFFIX,cbsivideo.com,!CN
+DOMAIN-SUFFIX,paramountplus.com,!CN
+DOMAIN-SUFFIX,pplusstatic.com,!CN
+DOMAIN,cbsi.live.ott.irdeto.com,!CN
+DOMAIN,cbsplaylistserver.aws.syncbak.com,!CN
+DOMAIN,cbsservice.aws.syncbak.com,!CN
+DOMAIN,link.theplatform.com,!CN
+# > PBS
+DOMAIN-SUFFIX,pbs.org,!CN
+# > Peacock
+DOMAIN-SUFFIX,peacocktv.com,!CN
+# > Pornhub
+DOMAIN-SUFFIX,phncdn.com,!CN
+DOMAIN-SUFFIX,phprcdn.com,!CN
+DOMAIN-SUFFIX,pornhub.com,!CN
+DOMAIN-SUFFIX,pornhubpremium.com,!CN
+# > 台湾好
+DOMAIN-SUFFIX,skyking.com.tw,!CN
+DOMAIN,hamifans.emome.net,!CN
+# > TikTok
+DOMAIN-SUFFIX,byteoversea.com,!CN
+DOMAIN-SUFFIX,ibytedtos.com,!CN
+DOMAIN-SUFFIX,muscdn.com,!CN
+DOMAIN-SUFFIX,musical.ly,!CN
+DOMAIN-SUFFIX,tiktok.com,!CN
+DOMAIN-SUFFIX,tik-tokapi.com,!CN
+DOMAIN-SUFFIX,tiktokcdn.com,!CN
+DOMAIN-SUFFIX,tiktokcdn-eu.com,!CN
+DOMAIN-SUFFIX,tiktokv.com,!CN
+DOMAIN-SUFFIX,ttwstatic.com,!CN
+DOMAIN-KEYWORD,tiktokcdn-,!CN
+# > TVer
+DOMAIN-SUFFIX,tver.jp,!CN
+DOMAIN,edge.api.brightcove.com,!CN
+# > ViuTV
+DOMAIN-SUFFIX,viu.com,!CN
+DOMAIN-SUFFIX,viu.tv,!CN
+DOMAIN,api.viu.now.com,!CN
+DOMAIN,d1ckiw6kv3s3l5.cloudfront.net,!CN
+DOMAIN,d1k2us671qcoau.cloudfront.net,!CN
+DOMAIN,d2anahhhmp1ffz.cloudfront.net,!CN
+DOMAIN,d3o7oi00quuwqu.cloudfront.net,!CN
+DOMAIN,dfp6rglgjqszk.cloudfront.net,!CN
+# > WeTV
+DOMAIN-SUFFIX,wetv.vip,!CN
+DOMAIN-SUFFIX,wetvinfo.com,!CN
+IP-CIDR,150.109.28.51/32,!CN
+# > YouTube
+DOMAIN-SUFFIX,googlevideo.com,!CN
+DOMAIN-SUFFIX,withyoutube.com,!CN
+DOMAIN-SUFFIX,youtu.be,!CN
+DOMAIN-SUFFIX,youtube.com,!CN
+DOMAIN-SUFFIX,youtubeeducation.com,!CN
+DOMAIN-SUFFIX,youtubegaming.com,!CN
+DOMAIN-SUFFIX,youtubekids.com,!CN
+DOMAIN-SUFFIX,youtube-nocookie.com,!CN
+DOMAIN-SUFFIX,yt.be,!CN
+DOMAIN-SUFFIX,ytimg.com,!CN
+DOMAIN,youtubei.googleapis.com,!CN
+DOMAIN,yt3.ggpht.com,!CN

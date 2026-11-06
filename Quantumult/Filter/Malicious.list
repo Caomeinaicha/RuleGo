@@ -1,0 +1,101 @@
+# > ZiTian
+DOMAIN-SUFFIX,51.la,Malicious
+DOMAIN-SUFFIX,bootcdn.net,Malicious
+DOMAIN-SUFFIX,bootcss.com,Malicious
+DOMAIN-SUFFIX,googie-anaiytics.com,Malicious
+DOMAIN-SUFFIX,kuurza.com,Malicious
+DOMAIN-SUFFIX,newcrbpc.com,Malicious
+DOMAIN-SUFFIX,polyfill.io,Malicious
+DOMAIN-SUFFIX,staticfile.net,Malicious
+DOMAIN-SUFFIX,staticfile.org,Malicious
+DOMAIN-SUFFIX,unionadjs.com,Malicious
+DOMAIN-SUFFIX,xhsbpza.com,Malicious
+DOMAIN,union.macoms.la,Malicious
+# > funnull
+DOMAIN-SUFFIX,fn01.vip,Malicious
+DOMAIN-SUFFIX,fnvip001.com,Malicious
+DOMAIN-SUFFIX,funnull.com,Malicious
+DOMAIN-SUFFIX,funnull01.vip,Malicious
+DOMAIN-SUFFIX,goedge.cloud,Malicious
+DOMAIN-SUFFIX,goedge.cn,Malicious
+DOMAIN-SUFFIX,jsdelivr.vip,Malicious
+# > KuaiZip
+# https://zhuanlan.zhihu.com/p/39534279
+DOMAIN-SUFFIX,kuaizip.com,Malicious
+# > MacKeeper
+# https://www.lizhi.io/blog/40002904
+DOMAIN-SUFFIX,mackeeper.com,Malicious
+DOMAIN-SUFFIX,zryydi.com,Malicious
+# > Adobe Flash China Special Edition
+# https://www.zhihu.com/question/281163698/answer/441388130
+DOMAIN-SUFFIX,flash.cn,Malicious
+DOMAIN,geo2.adobe.com,Malicious
+# > C&J Marketing
+# https://www.zhihu.com/question/46746200
+DOMAIN-SUFFIX,4009997658.com,Malicious
+DOMAIN-SUFFIX,abbyychina.com,Malicious
+DOMAIN-SUFFIX,affinitychina.cn,Malicious
+DOMAIN-SUFFIX,alienskins.cn,Malicious
+DOMAIN-SUFFIX,anydeskchina.cn,Malicious
+DOMAIN-SUFFIX,bartender.cc,Malicious
+DOMAIN-SUFFIX,betterzip.net,Malicious
+DOMAIN-SUFFIX,betterzipcn.com,Malicious
+DOMAIN-SUFFIX,beyondcompare.cc,Malicious
+DOMAIN-SUFFIX,bingdianhuanyuan.cn,Malicious
+DOMAIN-SUFFIX,chemdraw.com.cn,Malicious
+DOMAIN-SUFFIX,cjmakeding.com,Malicious
+DOMAIN-SUFFIX,cjmkt.com,Malicious
+DOMAIN-SUFFIX,codesoftchina.com,Malicious
+DOMAIN-SUFFIX,coreldrawchina.com,Malicious
+DOMAIN-SUFFIX,crossoverchina.com,Malicious
+DOMAIN-SUFFIX,dongmansoft.com,Malicious
+DOMAIN-SUFFIX,earmasterchina.cn,Malicious
+DOMAIN-SUFFIX,easyrecoverychina.com,Malicious
+DOMAIN-SUFFIX,ediuschina.com,Malicious
+DOMAIN-SUFFIX,flstudiochina.com,Malicious
+DOMAIN-SUFFIX,folxchina.cn,Malicious
+DOMAIN-SUFFIX,formysql.com,Malicious
+DOMAIN-SUFFIX,goldwavechina.cn,Malicious
+DOMAIN-SUFFIX,guitarpro.cc,Malicious
+DOMAIN-SUFFIX,huishenghuiying.com.cn,Malicious
+DOMAIN-SUFFIX,hypeapp.cn,Malicious
+DOMAIN-SUFFIX,hypersnap.net,Malicious
+DOMAIN-SUFFIX,iconworkshop.cn,Malicious
+DOMAIN-SUFFIX,idmchina.net,Malicious
+DOMAIN-SUFFIX,imazingchina.com,Malicious
+DOMAIN-SUFFIX,imindmap.cc,Malicious
+DOMAIN-SUFFIX,jihehuaban.com.cn,Malicious
+DOMAIN-SUFFIX,keyshot.cc,Malicious
+DOMAIN-SUFFIX,kingdeecn.cn,Malicious
+DOMAIN-SUFFIX,logoshejishi.com,Malicious
+DOMAIN-SUFFIX,luping.net.cn,Malicious
+DOMAIN-SUFFIX,mairuan.cn,Malicious
+DOMAIN-SUFFIX,mairuan.com,Malicious
+DOMAIN-SUFFIX,mairuan.com.cn,Malicious
+DOMAIN-SUFFIX,mairuan.net,Malicious
+DOMAIN-SUFFIX,mairuanwang.com,Malicious
+DOMAIN-SUFFIX,makeding.com,Malicious
+DOMAIN-SUFFIX,mathtype.cn,Malicious
+DOMAIN-SUFFIX,mindmanager.cc,Malicious
+DOMAIN-SUFFIX,mindmanager.cn,Malicious
+DOMAIN-SUFFIX,mindmapper.cc,Malicious
+DOMAIN-SUFFIX,mycleanmymac.com,Malicious
+DOMAIN-SUFFIX,nicelabel.cc,Malicious
+DOMAIN-SUFFIX,ntfsformac.cc,Malicious
+DOMAIN-SUFFIX,ntfsformac.cn,Malicious
+DOMAIN-SUFFIX,officesoftcn.com,Malicious
+DOMAIN-SUFFIX,overturechina.com,Malicious
+DOMAIN-SUFFIX,passwordrecovery.cn,Malicious
+DOMAIN-SUFFIX,pdfexpert.cc,Malicious
+DOMAIN-SUFFIX,photozoomchina.com,Malicious
+DOMAIN-SUFFIX,ps-chajian.com,Malicious
+DOMAIN-SUFFIX,shankejingling.com,Malicious
+DOMAIN-SUFFIX,ultraiso.net,Malicious
+DOMAIN-SUFFIX,vegaschina.cn,Malicious
+DOMAIN-SUFFIX,xitongqingli.com,Malicious
+DOMAIN-SUFFIX,xmindchina.net,Malicious
+DOMAIN-SUFFIX,xshellcn.com,Malicious
+DOMAIN-SUFFIX,yihuifu.cn,Malicious
+DOMAIN-SUFFIX,yuanchengxiezuo.com,Malicious
+DOMAIN-SUFFIX,zbrushcn.com,Malicious
+DOMAIN-SUFFIX,zhzzx.com,Malicious

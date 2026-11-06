@@ -1,0 +1,29 @@
+# Direct+
+DOMAIN,app.adjust.com,Direct+
+DOMAIN,app.appsflyer.com,Direct+
+DOMAIN,bdtj.tagtic.cn,Direct+
+# > Alibaba
+DOMAIN,log.mmstat.com,Direct+
+DOMAIN,sycm.mmstat.com,Direct+
+# ---(Alphabet)---
+DOMAIN-SUFFIX,blog.google,Direct+
+DOMAIN,ci.android.com,Direct+
+DOMAIN,clientservices.googleapis.com,Direct+
+DOMAIN,dl.google.com,Direct+
+DOMAIN,dl.l.google.com,Direct+
+DOMAIN,redirector.gvt1.com,Direct+
+DOMAIN,update.googleapis.com,Direct+
+# > Google Flights
+DOMAIN-SUFFIX,googletraveladservices.com,Direct+
+DOMAIN-SUFFIX,googletraveladservices-cn.com,Direct+
+# ------
+# > Tencent
+DOMAIN,fairplay.l.qq.com,Direct+
+DOMAIN,livew.l.qq.com,Direct+
+DOMAIN,vd.l.qq.com,Direct+
+DOMAIN,vi.l.qq.com,Direct+
+# > Strava
+DOMAIN,analytics.strava.com,Direct+
+# > Umeng
+DOMAIN,msg.umeng.com,Direct+
+DOMAIN,msg.umengcloud.com,Direct+

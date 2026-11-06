@@ -1,0 +1,9 @@
+DOMAIN-SUFFIX,smoot.apple.com,Intelligence
+DOMAIN,apple-relay.apple.com,Intelligence
+DOMAIN,apple-relay.cloudflare.com,Intelligence
+DOMAIN,apple-relay.fastly-edge.com,Intelligence
+DOMAIN-SUFFIX,gateway.icloud.com,Intelligence
+DOMAIN,cp4.cloudflare.com,Intelligence
+DOMAIN,guzzoni.apple.com,Intelligence
+DOMAIN,gspe1-ssl.ls.apple.com,Intelligence
+DOMAIN-SUFFIX,apps.mzstatic.com,Intelligence

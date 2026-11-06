@@ -1,0 +1,10 @@
+# TV
+PROCESS-NAME,TV,TV
+USER-AGENT,AppleTV*,TV
+USER-AGENT,com.apple.tv*,TV
+DOMAIN-SUFFIX,tv.apple.com,TV
+DOMAIN,hls.itunes.apple.com,TV
+DOMAIN,hls-amt.itunes.apple.com,TV
+DOMAIN,play-edge.itunes.apple.com,TV
+DOMAIN,tv.applemusic.com,TV
+DOMAIN,uts-api.itunes.apple.com,TV

@@ -1,0 +1,9 @@
+# App Store
+# Store content such as apps, books, and music
+DOMAIN-SUFFIX,apps.apple.com,AppStore
+DOMAIN-SUFFIX,itunes.apple.com,AppStore
+DOMAIN-SUFFIX,itunes-apple.com.akadns.net,AppStore
+DOMAIN-SUFFIX,mzstatic.com,AppStore
+DOMAIN,iosapps.itunes.apple.com,AppStore
+DOMAIN,osxapps.itunes.apple.com,AppStore
+DOMAIN,ppq.apple.com,AppStore

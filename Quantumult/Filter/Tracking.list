@@ -1,0 +1,110 @@
+# Privacy
+DOMAIN-SUFFIX,adjust.com,Tracking
+DOMAIN-SUFFIX,airpr.com,Tracking
+DOMAIN-SUFFIX,cr-nielsen.com,Tracking
+DOMAIN-SUFFIX,hotjar.com,Tracking
+DOMAIN-SUFFIX,hotjar.io,Tracking
+DOMAIN-SUFFIX,hs-analytics.net,Tracking
+DOMAIN-SUFFIX,kissmetrics.com,Tracking
+DOMAIN-SUFFIX,kochava.com,Tracking
+DOMAIN-SUFFIX,liadm.com,Tracking
+DOMAIN-SUFFIX,marketo.com,Tracking
+DOMAIN-SUFFIX,mobileapptracking.com,Tracking
+DOMAIN-SUFFIX,mparticle.com,Tracking
+DOMAIN-SUFFIX,nexac.com,Tracking
+DOMAIN-SUFFIX,nr-data.net,Tracking
+DOMAIN-SUFFIX,pardot.com,Tracking
+DOMAIN-SUFFIX,parrable.com,Tracking
+DOMAIN-SUFFIX,petametrics.com,Tracking
+DOMAIN-SUFFIX,predic.io,Tracking
+DOMAIN-SUFFIX,quantcount.com,Tracking
+DOMAIN-SUFFIX,quantserve.com,Tracking
+DOMAIN-SUFFIX,rtbasia.com,Tracking
+DOMAIN-SUFFIX,scorecardresearch.com,Tracking
+DOMAIN-SUFFIX,seewhy.com,Tracking
+DOMAIN-SUFFIX,segment.com,Tracking
+DOMAIN-SUFFIX,segment.io,Tracking
+DOMAIN-SUFFIX,segmentify.com,Tracking
+DOMAIN-SUFFIX,sentiance.com,Tracking
+DOMAIN-SUFFIX,serverbid.com,Tracking
+DOMAIN-SUFFIX,sessionm.com,Tracking
+DOMAIN-SUFFIX,smartlook.com,Tracking
+DOMAIN-SUFFIX,socdm.com,Tracking
+DOMAIN-SUFFIX,socialannex.com,Tracking
+DOMAIN-SUFFIX,socialbakers.com,Tracking
+DOMAIN-SUFFIX,sociaplus.com,Tracking
+DOMAIN-SUFFIX,stathat.com,Tracking
+DOMAIN-SUFFIX,stats-locations.com,Tracking
+DOMAIN-SUFFIX,tagcommander.com,Tracking
+DOMAIN-SUFFIX,tailtarget.com,Tracking
+DOMAIN-SUFFIX,tapad.com,Tracking
+DOMAIN-SUFFIX,tapfiliate.com,Tracking
+DOMAIN-SUFFIX,tapinfluence.com,Tracking
+DOMAIN-SUFFIX,tapstream.com,Tracking
+DOMAIN-SUFFIX,tend.io,Tracking
+DOMAIN-SUFFIX,trackingio.com,Tracking
+DOMAIN-SUFFIX,woopra.com,Tracking
+DOMAIN-SUFFIX,wootric.com,Tracking
+DOMAIN-SUFFIX,wowanalytics.co.uk,Tracking
+DOMAIN-SUFFIX,zoomanalytics.co,Tracking
+
+DOMAIN-SUFFIX,ads.linkedin.com,Tracking
+DOMAIN,analytics.slashdotmedia.com,Tracking
+DOMAIN,zgsdk.zhugeio.com,Tracking
+
+# > 51.LA
+DOMAIN,js.users.51.la,Tracking
+DOMAIN,mc.51.la,Tracking
+DOMAIN,sdk.51.la,Tracking
+DOMAIN,wc.51.la,Tracking
+# > 58
+DOMAIN,track.58.com,Tracking
+DOMAIN,tracklog.58.com,Tracking
+# > Antiy
+DOMAIN,miav-cse.avlyun.com,Tracking
+DOMAIN,miui-fxcse.avlyun.com,Tracking
+# > Apple
+DOMAIN,token.safebrowsing.apple,Tracking
+# > Baidu
+DOMAIN,hm.baidu.com,Tracking
+DOMAIN,hmma.baidu.com,Tracking
+# > Daum
+DOMAIN,track.tiara.daum.net,Tracking
+DOMAIN,track.tiara.kakao.com,Tracking
+# > Google
+DOMAIN-SUFFIX,google-analytics.com,Tracking
+DOMAIN,safebrowsing.googleapis.com,Tracking
+DOMAIN,safebrowsing.googleapis-cn.com,Tracking
+# > GozenData
+# https://www.v2ex.com/t/772523
+DOMAIN-SUFFIX,gozendata.com,Tracking
+DOMAIN-SUFFIX,gzads.com,Tracking
+DOMAIN-SUFFIX,gz-data.com,Tracking
+# > GrowingIO
+DOMAIN-SUFFIX,giocdn.com,Tracking
+DOMAIN-SUFFIX,growingio.com,Tracking
+# > Huawei
+DOMAIN,browsercfg-drcn.cloud.dbankcloud.cn,Tracking
+# > MI
+DOMAIN-SUFFIX,tracking.miui.com,Tracking
+# DOMAIN,api.miwifi.com // 影响 Mi Wi-Fi(id859962702)，但建议注意 https://www.v2ex.com/t/746094
+DOMAIN,data.mistat.xiaomi.com,Tracking
+DOMAIN,flash.sec.miui.com,Tracking
+DOMAIN,tracking.intl.miui.com,Tracking
+DOMAIN,a0.app.xiaomi.com,Tracking
+DOMAIN,api.installer.xiaomi.com,Tracking
+# > Microsoft
+DOMAIN,c.bing.com,Tracking
+DOMAIN,c.clarity.ms,Tracking
+DOMAIN,o.clarity.ms,Tracking
+DOMAIN,www.clarity.ms,Tracking
+# > TalkingData
+DOMAIN-SUFFIX,cpatrk.net,Tracking
+DOMAIN-SUFFIX,talkingdata.com,Tracking
+DOMAIN-SUFFIX,talkingdata.net,Tracking
+DOMAIN-SUFFIX,udrig.com,Tracking
+# > Tencent
+DOMAIN,safebrowsing.urlsec.qq.com,Tracking
+# > Tenjin
+DOMAIN,track.tenjin.com,Tracking
+DOMAIN,track.tenjin.io,Tracking

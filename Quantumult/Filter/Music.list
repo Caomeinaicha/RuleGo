@@ -1,0 +1,12 @@
+# > Apple Music
+PROCESS-NAME,Music,Music
+USER-AGENT,Music*,Music
+DOMAIN-SUFFIX,applemusic.com,Music
+DOMAIN-SUFFIX,music.apple.com,Music
+DOMAIN,aod.itunes.apple.com,Music
+DOMAIN,aod-ssl.itunes.apple.com,Music
+DOMAIN,audio.itunes.apple.com,Music
+DOMAIN,audio-ssl.itunes.apple.com,Music
+DOMAIN,mvod.itunes.apple.com,Music
+DOMAIN,streamingaudio.itunes.apple.com,Music
+DOMAIN-SUFFIX,blobstore.apple.com,Music

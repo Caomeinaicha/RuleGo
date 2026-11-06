@@ -1,0 +1,33 @@
+# Direct
+DOMAIN-SUFFIX,flyert.com,Direct
+DOMAIN-SUFFIX,gandi.net,Direct
+DOMAIN-SUFFIX,snapdrop.net,Direct
+DOMAIN,download.jetbrains.com,Direct
+DOMAIN,origin-a.akamaihd.net,Direct
+# ---(Microsoft)---
+# > Outlook
+DOMAIN,outlook.office365.com,Direct
+DOMAIN,smtp-mail.outlook.com,Direct
+DOMAIN,smtp.office365.com,Direct
+# > Windows Server Update Services
+DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com,Direct
+DOMAIN-SUFFIX,update.microsoft.com,Direct
+DOMAIN-SUFFIX,windowsupdate.com,Direct
+DOMAIN-SUFFIX,windowsupdate.microsoft.com,Direct
+DOMAIN,download.microsoft.com,Direct
+DOMAIN,wustat.windows.com,Direct
+DOMAIN,ntservicepack.microsoft.com,Direct
+# ------
+# > PayPal
+DOMAIN-SUFFIX,paypal.com,Direct
+DOMAIN-SUFFIX,paypal.me,Direct
+DOMAIN-SUFFIX,paypal-mktg.com,Direct
+DOMAIN-SUFFIX,paypalobjects.com,Direct
+# > Steam
+# >> Steam Connect Manager Servers
+DOMAIN-SUFFIX,cm.steampowered.com,Direct
+DOMAIN-SUFFIX,steamserver.net,Direct
+# > Tencent
+IP-CIDR,182.254.116.0/24,Direct
+IP-CIDR,203.205.238.0/23,Direct
+IP-CIDR,203.205.254.0/23,Direct
