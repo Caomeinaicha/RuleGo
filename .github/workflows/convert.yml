@@ -1,0 +1,96 @@
+
+name: Update Quantumult
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - "Surge/Ruleset/**"
+      - "Surge/Module/**"
+      - "Quantumult/**"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-quantumult
+  cancel-in-progress: true
+
+jobs:
+  changes:
+    runs-on: ubuntu-latest
+    outputs:
+      filter: ${{ steps.check.outputs.filter }}
+      rewrite: ${{ steps.check.outputs.rewrite }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - name: Check Changes
+        id: check
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || [ "${{ github.event.before }}" = "0000000000000000000000000000000000000000" ]; then
+            echo "filter=true" >> "$GITHUB_OUTPUT"
+            echo "rewrite=true" >> "$GITHUB_OUTPUT"
+          else
+            CHANGED_FILES=$(git diff --name-only "${{ github.event.before }}" "${{ github.sha }}")
+
+            if echo "$CHANGED_FILES" | grep -qE '^(Surge/Ruleset/|Quantumult/Filter/)'; then
+              echo "filter=true" >> "$GITHUB_OUTPUT"
+            else
+              echo "filter=false" >> "$GITHUB_OUTPUT"
+            fi
+
+            if echo "$CHANGED_FILES" | grep -qE '^(Surge/Module/|Quantumult/Rewrite/)'; then
+              echo "rewrite=true" >> "$GITHUB_OUTPUT"
+            else
+              echo "rewrite=false" >> "$GITHUB_OUTPUT"
+            fi
+          fi
+
+  convert:
+    needs: changes
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Convert Filter
+        if: needs.changes.outputs.filter == 'true'
+        run: python filter.py
+
+      - name: Commit Filter
+        if: needs.changes.outputs.filter == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add -A -- Quantumult/Filter
+
+          if ! git diff --cached --quiet; then
+            git commit -m "Update Filter"
+            git push
+          fi
+
+      - name: Convert Rewrite
+        if: needs.changes.outputs.rewrite == 'true'
+        run: python rewrite.py
+
+      - name: Commit Rewrite
+        if: needs.changes.outputs.rewrite == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add -A -- Quantumult/Rewrite
+
+          if ! git diff --cached --quiet; then
+            git commit -m "Update Rewrite"
+            git push
+          fi
